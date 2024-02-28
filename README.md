@@ -2,6 +2,8 @@
 
 This repository tracks my progress in learning R programming. It contains various scripts, projects, and resources that I've created or used during my learning journey.
 
+![Learning Progress GIF](r-flame.gif)
+
 ## About
 
 I'm using this repository to document my learning progress in R programming. As I learn new concepts, techniques, and best practices, I'll update this repository with my latest projects and scripts.
